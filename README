@@ -20,8 +20,9 @@ To install this module type the following:
 To install using CPAN you can use CPAN cli as follows:
 
 
-yum install perl-CPAN
-perl -MCPAN -e install Date::Jalali2
+#> yum install perl-CPAN
+#> perl -MCPAN -e shell
+cpan[1]> install Date::Jalali2
 
 
 DEPENDENCIES
